@@ -1,0 +1,7 @@
+web/scraping/jsoup/TestJSoupScholar.class
+models/Grant.class
+web/scraping/jsoup/testSearchGrants.class
+web/service/ServingLayerConfiguration.class
+web/service/ServingLayerController.class
+web/scraping/jsoup/TestJSoup.class
+models/GrantImpl.class
